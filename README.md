@@ -1,2 +1,1 @@
-Created inspired from 
-https://www.youtube.com/watch?v=tHbCkikFfDE
+NodeJs Websocket chat using socket.io.
